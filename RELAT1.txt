@@ -1,0 +1,14 @@
+14-05-2019 - STRIKE ANDROID
+foi realiado um teste de brute force no dominio colegiomilitartiradentes.com.br afim de encontrar possiveis dominios e localizamos os seguintes:
+
+cpanel.colegiomilitartiradentes.com.br
+mail.colegiomilitartiradentes.com.br
+webdisk.colegiomilitartiradentes.com.br
+autodiscover.colegiomilitartiradentes.com.br
+webmail.colegiomilitartiradentes.com.br
+www.colegiomilitartiradentes.com.br
+como de costume achamos um subdominio que me chamou atencao o dominio cpanel.colegiomilitartiradentes.com.br, acessei e constatei ser a pagina de administração do site, como ja temos todos os usuarios atraves da ferramenta wpscan, como pude mencionar no inicio do relatorio podemos realizar um brute force com a ferramenta hydra.
+
+ja a o subdominio webdisk de inicio ele pede m usuario e senha, o usuario pedrao é admin, tambem faremos um bruteforce com hydra.
+
+
